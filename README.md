@@ -2,7 +2,7 @@
 
 A set of 104 free premium SVG icons
 
-##License
+## License
 
 MIT
 
