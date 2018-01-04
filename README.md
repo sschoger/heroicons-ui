@@ -4,7 +4,7 @@ A set of 104 free premium SVG icons
 
 ## License
 
-MIT
+MIT License
 
 Copyright 2018, Duke Street Studio
 
